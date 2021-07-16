@@ -1,0 +1,18 @@
+DD(Direct Damage) - 피해를 한번에 입히는 데미지
+bolt - 투사체 마법
+AE(Area Effect damage) - 스플뎀
+AOE(Area of Effect Spell) - 광역기
+Looting/toggle - 루팅
+Instancing - 인스턴스 던전을 만드는것?
+SPI(Spirit) - 정신력
+Agi(Agility) - 민첩
+FM(Full on MP)
+FH(Full on HP)
+LOW(Low on Mana), OOM(Out of Mana) - 앰오링
+Train - 몹 어그로가 너무 많이 끌린
+Link Monster - 한놈때리면 덩달아 반응
+Area Grouping - 다수의 몬스터를 한번에 풀링하는것
+Camp Break - 젠타임 맞춰서 캠프를 이동하면서 사냥하는 방식
+Pop(갑작스러운 몹출현)
+hate
+Critters(공격을해도 도망만 가는 몬스터)

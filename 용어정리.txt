@@ -93,11 +93,16 @@ BOT
 DOT (Damage over Time)
 일정시간에 걸쳐서 타깃에게 데미지를 주는 것
 
+PU(Paying User)
+결제경험이 있는 유저수
+PC온라인의 경우 MAU의 8~13% 정도
+모바일의 경우 MAU의 4~8% 정도
+
 ARPU (Average Revenue per User)
 게임에 가입한 유저 1명당 평균 결제금액
 부분유료화에서 굉장히 중요한 지표
 
-ARPPU (Average Revenue per paid User)
+ARPPU (Average Revenue per paid User) - 장르에 영향을 제일 많이 받음
 게임에서 결제 경험이 있는 유저 1명당 평균 결제금액
 표준기간이 정의되어 같이 사용됨
 
